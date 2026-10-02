@@ -1,0 +1,9 @@
+{
+  "framework": "tanstack-start",
+  "crons": [
+    {
+      "path": "/api/cron/expire-orders",
+      "schedule": "0 * * * *"
+    }
+  ]
+}

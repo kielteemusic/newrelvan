@@ -1,0 +1,2 @@
+CREATE UNIQUE INDEX IF NOT EXISTS cart_items_user_product_key ON public.cart_items (user_id, product_id);
+CREATE UNIQUE INDEX IF NOT EXISTS wishlists_user_product_key ON public.wishlists (user_id, product_id);

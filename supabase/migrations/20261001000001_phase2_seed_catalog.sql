@@ -1,0 +1,2 @@
+-- Catalog content is managed in Admin (products, images, reviews, discounts).
+-- No demo products are seeded here.
